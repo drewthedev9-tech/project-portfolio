@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/project-portfolio/static/css/main.0ed71535.chunk.css",
+    "main.js": "/project-portfolio/static/js/main.e3128d39.chunk.js",
+    "main.js.map": "/project-portfolio/static/js/main.e3128d39.chunk.js.map",
+    "runtime-main.js": "/project-portfolio/static/js/runtime-main.2ea9d4d9.js",
+    "runtime-main.js.map": "/project-portfolio/static/js/runtime-main.2ea9d4d9.js.map",
+    "static/js/2.8d56277d.chunk.js": "/project-portfolio/static/js/2.8d56277d.chunk.js",
+    "static/js/2.8d56277d.chunk.js.map": "/project-portfolio/static/js/2.8d56277d.chunk.js.map",
+    "index.html": "/project-portfolio/index.html",
+    "precache-manifest.68a0f4f3e6b0ea55a78a267f1350d1ee.js": "/project-portfolio/precache-manifest.68a0f4f3e6b0ea55a78a267f1350d1ee.js",
+    "service-worker.js": "/project-portfolio/service-worker.js",
+    "static/css/main.0ed71535.chunk.css.map": "/project-portfolio/static/css/main.0ed71535.chunk.css.map",
+    "static/js/2.8d56277d.chunk.js.LICENSE.txt": "/project-portfolio/static/js/2.8d56277d.chunk.js.LICENSE.txt",
+    "static/media/budget.jpg": "/project-portfolio/static/media/budget.d3ac744b.jpg",
+    "static/media/face.jpg": "/project-portfolio/static/media/face.e4522b9d.jpg",
+    "static/media/hotel.jpeg": "/project-portfolio/static/media/hotel.ce0abb04.jpeg",
+    "static/media/logo.png": "/project-portfolio/static/media/logo.f4f0fd7b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ea9d4d9.js",
+    "static/js/2.8d56277d.chunk.js",
+    "static/css/main.0ed71535.chunk.css",
+    "static/js/main.e3128d39.chunk.js"
+  ]
+}
